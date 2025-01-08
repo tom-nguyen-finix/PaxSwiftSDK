@@ -1,0 +1,5 @@
+module PaxEasyLinkControllerWrapper {
+    umbrella header "PaxEasyLinkControllerWrapper.h"
+    export *
+    module * { export * }
+}

@@ -1,2 +1,11 @@
-// The Swift Programming Language
-// https://docs.swift.org/swift-book
+import Foundation
+import PaxEasyLinkControllerWrapper
+
+public class PaxPOSLibrary {
+    public static func doSomething() -> String {
+        if let version = PaxEasyLinkControllerWrapper.getInstance().getVersionName(){
+            return "Version: \(version)"
+        }
+        return ""
+    }
+}
