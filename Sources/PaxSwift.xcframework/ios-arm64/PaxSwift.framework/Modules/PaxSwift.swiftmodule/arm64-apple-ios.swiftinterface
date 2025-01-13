@@ -1,0 +1,250 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
+// swift-module-flags: -target arm64-apple-ios17.6 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name PaxSwift
+import Foundation
+@_exported import PaxSwift
+import Swift
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+public enum TransactionStatus : Swift.Int {
+  case unknown
+  case approved
+  case partiallyApproved
+  case approvedExceptCashback
+  case approvedByMerchant
+  case callIssuer
+  case declined
+  case needsToBeReversed
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+public enum Transfer {
+  public enum State : Swift.Decodable, Swift.Equatable {
+    case pending
+    case failed
+    case succeeded
+    case canceled
+    case unknown(value: Swift.String)
+    public init(from decoder: any Swift.Decoder) throws
+    public static func == (a: PaxSwift.Transfer.State, b: PaxSwift.Transfer.State) -> Swift.Bool
+  }
+}
+extension PaxSwift.FinixClient {
+  public func updateCardReaderFiles(_ statusCallback: PaxSwift.DownloadStatusCallback?)
+  public enum TransactionType : Swift.String, Swift.Encodable {
+    case sale
+    case auth
+    case refund
+    public init?(rawValue: Swift.String)
+    public typealias RawValue = Swift.String
+    public var rawValue: Swift.String {
+      get
+    }
+  }
+  public struct CardReaderTransferResponse : Swift.Decodable {
+    public let amount: Swift.Int
+    public let amountRequested: Swift.Int
+    public let approvalCode: Swift.String?
+    public let brand: Swift.String
+    public let id: Swift.String?
+    public let maskedAccountNumber: Swift.String
+    public let state: PaxSwift.Transfer.State
+    public let traceId: PaxSwift.TraceId
+    public init(from decoder: any Swift.Decoder) throws
+  }
+  public typealias TransactionCompleteHandler = (PaxSwift.FinixClient.CardReaderTransferResponse?, (any Swift.Error)?) -> Swift.Void
+  public func startTransaction(amount: PaxSwift.Currency, type transactionType: PaxSwift.FinixClient.TransactionType, transactionHandler: PaxSwift.FinixClient.TransactionCompleteHandler?)
+}
+extension PaxSwift.FinixClient {
+  public func startScan()
+  public func connectDevice(_ deviceId: PaxSwift.DeviceId)
+  public func disconnectDevice() -> Swift.Bool
+}
+public typealias DownloadStatusCallback = (_ filename: Swift.String, _ progress: Swift.Int, _ total: Swift.Int) -> Swift.Void
+public struct Currency {
+  public let amount: Swift.Int
+  public var decimal: Foundation.Decimal {
+    get
+  }
+  public let code: PaxSwift.CurrencyCode
+  public init(decimal: Foundation.Decimal, code: PaxSwift.CurrencyCode)
+  public init(amount: Swift.Int, code: PaxSwift.CurrencyCode)
+}
+extension PaxSwift.Currency : Swift.Equatable {
+  public static func == (a: PaxSwift.Currency, b: PaxSwift.Currency) -> Swift.Bool
+}
+extension PaxSwift.Currency : Swift.CustomDebugStringConvertible {
+  public var debugDescription: Swift.String {
+    get
+  }
+}
+public enum CurrencyCode {
+  case USD
+  public static func == (a: PaxSwift.CurrencyCode, b: PaxSwift.CurrencyCode) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public struct FinixConfig {
+  public init(environment: PaxSwift.Finix.Environment, credentials: PaxSwift.Finix.APICredentials, application: Swift.String, version: Swift.String, merchantId: Swift.String, mid: Swift.String, deviceType: PaxSwift.Finix.Device, deviceId: Swift.String, serialNumber: Swift.String? = nil)
+}
+public enum Finix {
+  public enum Device {
+    case Pax
+    public static func == (a: PaxSwift.Finix.Device, b: PaxSwift.Finix.Device) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
+    public var hashValue: Swift.Int {
+      get
+    }
+  }
+  public enum Environment {
+    case Production
+    case Sandbox
+    case QA
+    public static func == (a: PaxSwift.Finix.Environment, b: PaxSwift.Finix.Environment) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
+    public var hashValue: Swift.Int {
+      get
+    }
+  }
+  public struct APICredentials {
+    public init(username: Swift.String, password: Swift.String)
+  }
+}
+public struct FinixError : Swift.Error {
+  public let code: PaxSwift.FinixError.Code
+  public let message: Swift.String
+  public enum Code {
+    case GenericDecline
+    case ExpiredCard
+    case DuplicateTransaction
+    case PickUpCard
+    case CallIssuer
+    case InvalidTransaction
+    case InvalidAmount
+    case InvalidAccountNumber
+    case RestrictedCard
+    case TransactionNotPermitted
+    case CommunicationError
+    case Unknown
+    case SDKNotInitialized
+    case CardReaderNotConnected
+    case CannotEncodeParameters
+    case CannotDecodeResponse
+    case MalformedRequest
+    case RequestFailed(_: Swift.Int)
+    case TransactionError(PaxSwift.TransactionStatus)
+    case InitializationError
+    case FailedToParseAuthorizationResponse
+    case AuthorizationFailure(_: any Swift.Error)
+    case AuthorizationFailureMissingResponse
+    case RefundRequestFailed
+    case RefundRequestFailedWithError(_: any Swift.Error)
+    case CardInputError
+    case InvalidCurrencyCode
+    case NoCardData
+    case BadCard
+    case TransferError(status: PaxSwift.TransactionStatus, response: any PaxSwift.TransferResponse)
+  }
+}
+public typealias TraceId = Swift.String
+public typealias TransferId = Swift.String
+public typealias SourceId = Swift.String
+public typealias AuthorizationId = Swift.String
+public typealias ResourceTags = [Swift.String : Swift.String]
+public struct DebitResponse : PaxSwift.TransferResponse {
+  public let id: PaxSwift.TransferId
+  public let state: PaxSwift.Transfer.State
+  public let traceId: PaxSwift.TraceId
+  public let source: PaxSwift.SourceId?
+  public let amount: PaxSwift.Currency
+  public let tags: PaxSwift.ResourceTags?
+}
+public struct TransferRequest {
+  public init(amount: PaxSwift.Currency, tags: PaxSwift.ResourceTags? = nil)
+}
+public enum PaymentType {
+  case Unknown
+  case Credit
+  case Debit
+  case GiftCard
+  case EBT
+  public static func == (a: PaxSwift.PaymentType, b: PaxSwift.PaymentType) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public enum EBTType {
+  case NotSet
+  case FoodStamps
+  case CashBenefits
+  public static func == (a: PaxSwift.EBTType, b: PaxSwift.EBTType) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public protocol ResponseState {
+  var state: PaxSwift.Transfer.State { get }
+  var success: Swift.Bool { get }
+  var pending: Swift.Bool { get }
+}
+extension PaxSwift.ResponseState {
+  public var success: Swift.Bool {
+    get
+  }
+  public var pending: Swift.Bool {
+    get
+  }
+}
+public protocol TransferResponse : PaxSwift.ResponseState {
+  var id: PaxSwift.TransferId { get }
+  var traceId: PaxSwift.TraceId { get }
+  var source: PaxSwift.SourceId? { get }
+}
+public typealias DeviceId = Swift.String
+public struct DeviceInfo {
+  public let deviceId: PaxSwift.DeviceId
+  public let name: Swift.String?
+}
+public class FinixClient {
+  weak public var delegate: (any PaxSwift.FinixDelegate)?
+  weak public var interactionDelegate: (any PaxSwift.FinixClientDeviceInteractionDelegate)?
+  public init(config: PaxSwift.FinixConfig)
+  public func isReaderConnected() -> Swift.Bool
+  public func stopCurrentOperation()
+  public func update(deviceId: Swift.String)
+  @objc deinit
+}
+public protocol FinixClientDeviceInteractionDelegate : AnyObject {
+  func onDisplayText(_ text: Swift.String)
+  func onRemoveCard()
+}
+public protocol FinixDelegate : AnyObject {
+  func didDiscoverDevice(_ deviceInfo: PaxSwift.DeviceInfo)
+  func deviceDidConnect(_ deviceInfo: PaxSwift.DeviceInfo)
+  func deviceDidDisconnect()
+  func deviceDidError(_ error: any Swift.Error)
+}
+extension PaxSwift.TransactionStatus : Swift.Equatable {}
+extension PaxSwift.TransactionStatus : Swift.Hashable {}
+extension PaxSwift.TransactionStatus : Swift.RawRepresentable {}
+extension PaxSwift.FinixClient.TransactionType : Swift.Equatable {}
+extension PaxSwift.FinixClient.TransactionType : Swift.Hashable {}
+extension PaxSwift.FinixClient.TransactionType : Swift.RawRepresentable {}
+extension PaxSwift.CurrencyCode : Swift.Equatable {}
+extension PaxSwift.CurrencyCode : Swift.Hashable {}
+extension PaxSwift.Finix.Device : Swift.Equatable {}
+extension PaxSwift.Finix.Device : Swift.Hashable {}
+extension PaxSwift.Finix.Environment : Swift.Equatable {}
+extension PaxSwift.Finix.Environment : Swift.Hashable {}
+extension PaxSwift.PaymentType : Swift.Equatable {}
+extension PaxSwift.PaymentType : Swift.Hashable {}
+extension PaxSwift.EBTType : Swift.Equatable {}
+extension PaxSwift.EBTType : Swift.Hashable {}

@@ -1,0 +1,12 @@
+//
+//  module.modulemap
+//  PaxSwift
+//
+//  Created by Tom Nguyen on 1/13/25.
+//
+
+module PaxSwift {
+    header "/Users/tom.nguyen/finix/PaxSwift/PaxEasyLinkController/PaxEasyLinkController.xcframework/ios-arm64/Headers/PaxEasyLinkController.h"
+
+    export *
+}

@@ -6,30 +6,18 @@ import PackageDescription
 let package = Package(
     name: "PaxSwiftSDK",
     platforms: [
-        .iOS("13.0")
+        .iOS("17.6")
     ],
     products: [
         .library(
             name: "PaxSwiftSDK",
-            targets: ["PaxSwiftSDK"]
+            targets: ["PaxSwift"]
         ),
     ],
     targets: [
         .binaryTarget(
-            name: "PaxEasyLinkController",
-            path: "./Sources/PaxEasyLinkController.xcframework"
-        ),
-        .target(
-            name: "PaxEasyLinkControllerWrapper",
-            dependencies: ["PaxEasyLinkController"]
-        ),
-        .target(
-            name: "PaxSwiftSDK",
-            dependencies: ["PaxEasyLinkControllerWrapper"]
-        ),
-        .testTarget(
-            name: "PaxSwiftSDKTests",
-            dependencies: ["PaxSwiftSDK"]
-        ),
+            name: "PaxSwift",
+            path: "./Sources/PaxSwift.xcframework"
+        )
     ]
 )
