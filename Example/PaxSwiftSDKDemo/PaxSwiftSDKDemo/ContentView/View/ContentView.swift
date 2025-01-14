@@ -76,11 +76,19 @@ struct ContentView: View {
                     .foregroundColor(Constants.textColor)
 
                 ScrollView {
-                    Text(viewModel.logOutput)
-                        .font(Constants.footnoteFont)
-                        .foregroundColor(Constants.textColor)
-                        .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .leading)
-                        .padding(16)
+                    ScrollViewReader { proxy in
+                        Text(viewModel.logOutput)
+                            .font(Constants.footnoteFont)
+                            .foregroundColor(Constants.textColor)
+                            .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .leading)
+                            .padding(16)
+                            .id("bottom")
+                            .onChange(of: viewModel.logOutput) {
+                                withAnimation {
+                                    proxy.scrollTo("bottom", anchor: .bottom)
+                                }
+                            }
+                    }
                 }
                 .background(Constants.buttonDisabledBackgroundColor)
                 .cornerRadius(8)

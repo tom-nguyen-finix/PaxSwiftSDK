@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>EASYLINK_LITE.bin</key>
+		<data>
+		KZHOi9ZdlTs4McQfDf++C8TXut8=
+		</data>
 		<key>Headers/PaxSwift.h</key>
 		<data>
 		mRsOFDfir4uo2Z+Hi5P2RTNmZ00=
@@ -36,9 +40,24 @@
 		<data>
 		s0A1XI+N1tdoCLj+qVCg3Zb2Bp8=
 		</data>
+		<key>clss_param.clss</key>
+		<data>
+		jZ/6bbb/Aa5vP6TRVZj8B5Cc0Bk=
+		</data>
+		<key>emv_param.emv</key>
+		<data>
+		pSBIlzPRcfl31M8uJVxzZFAb7u0=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>EASYLINK_LITE.bin</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OKkIC0AQRGjPjLwFs7ZART/g2GSfHzxPj5l8xERvb/g=
+			</data>
+		</dict>
 		<key>Headers/PaxSwift.h</key>
 		<dict>
 			<key>hash2</key>
@@ -86,6 +105,20 @@
 			<key>hash2</key>
 			<data>
 			hbWOLFkX+TrprY55kVtHDtHpSMl0J3UveaS8VMcEIJk=
+			</data>
+		</dict>
+		<key>clss_param.clss</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qAcCdsRu/++OpHlS3JkIVbVQgOehsWtApahsXpm1e60=
+			</data>
+		</dict>
+		<key>emv_param.emv</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6bupzPtLlGeAGPCZztf/6w+ysbZ7mCu2kY2pdS0w9bE=
 			</data>
 		</dict>
 	</dict>
