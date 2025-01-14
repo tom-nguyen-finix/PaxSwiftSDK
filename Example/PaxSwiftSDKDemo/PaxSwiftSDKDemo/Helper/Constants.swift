@@ -15,7 +15,6 @@ struct Constants {
     static let buttonFont = Font.system(size: 18, weight: .semibold)
     
     static let textColor = Color.black
-    static let invertedTextColor = Color.white
     static let bodyFont = Font.system(size: 18)
     static let headerFont = Font.system(.headline)
     static let footnoteFont = Font.system(.footnote)

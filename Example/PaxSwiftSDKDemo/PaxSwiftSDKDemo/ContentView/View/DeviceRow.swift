@@ -18,7 +18,6 @@ struct DeviceRow: View {
                 .font(Constants.footnoteFont)
         }
         .frame(maxWidth: .infinity, alignment: .leading)
-        .foregroundColor(Constants.invertedTextColor)
     }
 }
 

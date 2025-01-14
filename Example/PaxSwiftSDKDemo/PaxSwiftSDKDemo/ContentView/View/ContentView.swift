@@ -103,6 +103,7 @@ struct ContentView: View {
         }
         .sheet(isPresented: $viewModel.showingDeviceList) {
             DeviceListView(viewModel: viewModel)
+                .preferredColorScheme(.light)
         }
     }
 }
