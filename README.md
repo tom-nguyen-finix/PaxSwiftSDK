@@ -5,7 +5,7 @@ This guide helps iOS developers integrate **FINIX PaxSwiftSDK** into their appli
 
 ## Table of Contents
 - [Installation](#installation)
-- [Prerequisites](#prerequisites)
+- [Pre-requisites](#prerequisites)
 - [Integration Guide](#integration-guide)
 - [Sample App](#sample-app)
 
@@ -15,7 +15,7 @@ Add the SDK to your project via Swift Package Manager using:
 https://github.com/tom-nguyen-finix/PaxSwiftSDK
 ```
 
-## Pre-requisite
+## Pre-requisites
 - iOS 17.6 or later
 - Real iOS device (ARM64 simulator support coming soon)
 - Add Bluetooth permission in Info.plist using key `Privacy - Bluetooth Always Usage Description`
