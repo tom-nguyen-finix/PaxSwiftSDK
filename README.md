@@ -5,7 +5,7 @@ This guide helps iOS developers integrate **FINIX PaxSwiftSDK** into their appli
 
 ## Table of Contents
 - [Installation](#installation)
-- [Pre-requisites](#prerequisites)
+- [Pre-requisites](#pre-requisites)
 - [Integration Guide](#integration-guide)
 - [Sample App](#sample-app)
 
