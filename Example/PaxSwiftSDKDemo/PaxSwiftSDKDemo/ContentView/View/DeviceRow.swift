@@ -12,8 +12,11 @@ struct DeviceRow: View {
     
     var body: some View {
         VStack(alignment: .leading) {
-            Text(device.name)
-                .font(Constants.bodyFont)
+            if !device.name.trim().isEmpty {
+                Text(device.name)
+                    .font(Constants.bodyFont)
+                    .fontWeight(.bold)
+            }
             Text(device.id)
                 .font(Constants.footnoteFont)
         }

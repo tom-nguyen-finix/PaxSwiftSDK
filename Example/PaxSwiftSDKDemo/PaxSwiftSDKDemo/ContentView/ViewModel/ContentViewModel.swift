@@ -165,7 +165,7 @@ extension ContentViewModel {
 extension ContentViewModel: FinixDelegate {
     nonisolated func didDiscoverDevice(_ deviceInfo: DeviceInfo) {
         Task { @MainActor in
-            devices.append(.init(id: deviceInfo.deviceId, name: deviceInfo.name ?? Constants.unknownDeviceText))
+            devices.append(.init(id: deviceInfo.deviceId, name: deviceInfo.name ?? ""))
         }
     }
 

@@ -26,7 +26,7 @@
 		</data>
 		<key>ios-arm64/PaxSwift.framework/Modules/PaxSwift.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		lIpzyeU5awR4SjyWCIO+SYKvMOM=
+		VoCkW1/Vfn9WMKuybBOvuPPuFkI=
 		</data>
 		<key>ios-arm64/PaxSwift.framework/Modules/PaxSwift.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>ios-arm64/PaxSwift.framework/PaxSwift</key>
 		<data>
-		H1HwwcIc7w9buAOFxLlDm49ja5E=
+		GbjthRDfKP1XruGCxjffc/i50xY=
 		</data>
 		<key>ios-arm64/PaxSwift.framework/_CodeSignature/CodeResources</key>
 		<data>
-		xoVv0z5znuQjb801/yvJTvG6yvA=
+		j29yr+3kaEhMhSIDkXuCpzWi+18=
 		</data>
 		<key>ios-arm64/PaxSwift.framework/clss_param.clss</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>ios-arm64/dSYMs/PaxSwift.framework.dSYM/Contents/Resources/DWARF/PaxSwift</key>
 		<data>
-		PbH3jqNESftQ+BUWMKIkXIkyA4E=
+		yq3dW/FTLokYyFxvD84//QgkdTs=
 		</data>
 		<key>ios-arm64/dSYMs/PaxSwift.framework.dSYM/Contents/Resources/Relocations/aarch64/PaxSwift.yml</key>
 		<data>
@@ -126,11 +126,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lIpzyeU5awR4SjyWCIO+SYKvMOM=
+			VoCkW1/Vfn9WMKuybBOvuPPuFkI=
 			</data>
 			<key>hash2</key>
 			<data>
-			LGI7v17S7UHMBgfr+g6U8oub5Y7wy4SfFqgD7s03M1A=
+			+EMlErOZXwzrfcx/6HMGh41qvI5yTkNCyivYgj7eJK0=
 			</data>
 		</dict>
 		<key>ios-arm64/PaxSwift.framework/Modules/PaxSwift.swiftmodule/arm64-apple-ios.swiftinterface</key>
@@ -159,22 +159,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			H1HwwcIc7w9buAOFxLlDm49ja5E=
+			GbjthRDfKP1XruGCxjffc/i50xY=
 			</data>
 			<key>hash2</key>
 			<data>
-			4m9GWbUxp+f5XWOSrK7Z7HR/kz7DC6SCnh6+Dfy7X3A=
+			JIbzZPW1aKgTEaWh7ul37U+fqLUGwZzaFfbsW0cn+es=
 			</data>
 		</dict>
 		<key>ios-arm64/PaxSwift.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xoVv0z5znuQjb801/yvJTvG6yvA=
+			j29yr+3kaEhMhSIDkXuCpzWi+18=
 			</data>
 			<key>hash2</key>
 			<data>
-			JOUm9Ory7RsFUj7lALcwCaujgDRT0B+0M7Audxtu4Yo=
+			Ob9nEoD+pPnLVSPgmopsh3Ja4MTqibacXLsItVmyfVk=
 			</data>
 		</dict>
 		<key>ios-arm64/PaxSwift.framework/clss_param.clss</key>
@@ -214,11 +214,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PbH3jqNESftQ+BUWMKIkXIkyA4E=
+			yq3dW/FTLokYyFxvD84//QgkdTs=
 			</data>
 			<key>hash2</key>
 			<data>
-			c7hEJyNbd5xWN4ME52RW40tKSkK/kWP3Vtv7a3AH2ss=
+			ls8CbKkKi420MRa0VMvmr0DzT7UUR55XWWGhfnTi9/U=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/PaxSwift.framework.dSYM/Contents/Resources/Relocations/aarch64/PaxSwift.yml</key>
