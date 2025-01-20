@@ -6780,987 +6780,987 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Enum\/FinixError+TransactionStatus.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Enum\/FinixError+TransactionStatus.swift",
       "kind": "IntegerLiteral",
       "offset": 330,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Enum\/FinixError+TransactionStatus.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Enum\/FinixError+TransactionStatus.swift",
       "kind": "IntegerLiteral",
       "offset": 358,
       "length": 8,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Enum\/FinixError+TransactionStatus.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Enum\/FinixError+TransactionStatus.swift",
       "kind": "IntegerLiteral",
       "offset": 403,
       "length": 17,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Enum\/FinixError+TransactionStatus.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Enum\/FinixError+TransactionStatus.swift",
       "kind": "IntegerLiteral",
       "offset": 463,
       "length": 22,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Enum\/FinixError+TransactionStatus.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Enum\/FinixError+TransactionStatus.swift",
       "kind": "IntegerLiteral",
       "offset": 524,
       "length": 18,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Enum\/FinixError+TransactionStatus.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Enum\/FinixError+TransactionStatus.swift",
       "kind": "IntegerLiteral",
       "offset": 572,
       "length": 10,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Enum\/FinixError+TransactionStatus.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Enum\/FinixError+TransactionStatus.swift",
       "kind": "IntegerLiteral",
       "offset": 609,
       "length": 8,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Enum\/FinixError+TransactionStatus.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Enum\/FinixError+TransactionStatus.swift",
       "kind": "IntegerLiteral",
       "offset": 656,
       "length": 17,
       "value": "7"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Extension\/DateFormatter+Ext.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Extension\/DateFormatter+Ext.swift",
       "kind": "StringLiteral",
       "offset": 279,
       "length": 31,
       "value": "\"yyyy-MM-dd'T'HH:mm:ss.SSZZZZZ\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Extension\/DateFormatter+Ext.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Extension\/DateFormatter+Ext.swift",
       "kind": "IntegerLiteral",
       "offset": 425,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Extension\/DateFormatter+Ext.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Extension\/DateFormatter+Ext.swift",
       "kind": "StringLiteral",
       "offset": 474,
       "length": 13,
       "value": "\"en_US_POSIX\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Extension\/FinixAPIResponse+Ext.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Extension\/FinixAPIResponse+Ext.swift",
       "kind": "StringLiteral",
       "offset": 5163,
       "length": 12,
       "value": "\"first_name\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Extension\/FinixAPIResponse+Ext.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Extension\/FinixAPIResponse+Ext.swift",
       "kind": "StringLiteral",
       "offset": 5204,
       "length": 11,
       "value": "\"last_name\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Extension\/FinixAPIResponse+Ext.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Extension\/FinixAPIResponse+Ext.swift",
       "kind": "StringLiteral",
       "offset": 5271,
       "length": 15,
       "value": "\"business_name\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Extension\/FinixAPIResponse+Ext.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Extension\/FinixAPIResponse+Ext.swift",
       "kind": "StringLiteral",
       "offset": 5319,
       "length": 15,
       "value": "\"business_type\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Extension\/FinixAPIResponse+Ext.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Extension\/FinixAPIResponse+Ext.swift",
       "kind": "StringLiteral",
       "offset": 5370,
       "length": 19,
       "value": "\"doing_business_as\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Extension\/FinixAPIResponse+Ext.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Extension\/FinixAPIResponse+Ext.swift",
       "kind": "StringLiteral",
       "offset": 5445,
       "length": 16,
       "value": "\"business_phone\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Extension\/FinixAPIResponse+Ext.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Extension\/FinixAPIResponse+Ext.swift",
       "kind": "StringLiteral",
       "offset": 5497,
       "length": 18,
       "value": "\"personal_address\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Extension\/FinixAPIResponse+Ext.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Extension\/FinixAPIResponse+Ext.swift",
       "kind": "StringLiteral",
       "offset": 5551,
       "length": 18,
       "value": "\"business_address\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Extension\/FinixAPIResponse+Ext.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Extension\/FinixAPIResponse+Ext.swift",
       "kind": "StringLiteral",
       "offset": 6082,
       "length": 13,
       "value": "\"postal_code\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Extension\/FinixClient+CardReader.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Extension\/FinixClient+CardReader.swift",
       "kind": "StringLiteral",
       "offset": 374,
       "length": 6,
       "value": "\"SALE\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Extension\/FinixClient+CardReader.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Extension\/FinixClient+CardReader.swift",
       "kind": "StringLiteral",
       "offset": 401,
       "length": 15,
       "value": "\"AUTHORIZATION\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Extension\/FinixClient+CardReader.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Extension\/FinixClient+CardReader.swift",
       "kind": "StringLiteral",
       "offset": 439,
       "length": 8,
       "value": "\"REFUND\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Extension\/FinixClient+CardReader.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Extension\/FinixClient+CardReader.swift",
       "kind": "StringLiteral",
       "offset": 2461,
       "length": 18,
       "value": "\"amount_requested\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Extension\/FinixClient+CardReader.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Extension\/FinixClient+CardReader.swift",
       "kind": "StringLiteral",
       "offset": 2512,
       "length": 15,
       "value": "\"approval_code\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Extension\/FinixClient+CardReader.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Extension\/FinixClient+CardReader.swift",
       "kind": "StringLiteral",
       "offset": 2582,
       "length": 14,
       "value": "\"failure_code\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Extension\/FinixClient+CardReader.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Extension\/FinixClient+CardReader.swift",
       "kind": "StringLiteral",
       "offset": 2631,
       "length": 17,
       "value": "\"failure_message\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Extension\/FinixClient+CardReader.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Extension\/FinixClient+CardReader.swift",
       "kind": "StringLiteral",
       "offset": 2688,
       "length": 23,
       "value": "\"masked_account_number\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Extension\/FinixClient+CardReader.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Extension\/FinixClient+CardReader.swift",
       "kind": "StringLiteral",
       "offset": 2762,
       "length": 10,
       "value": "\"trace_id\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Extension\/FinixClient+CardReader.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Extension\/FinixClient+CardReader.swift",
       "kind": "StringLiteral",
       "offset": 2804,
       "length": 14,
       "value": "\"emv_response\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/DebugLogger.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/DebugLogger.swift",
       "kind": "IntegerLiteral",
       "offset": 476,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/DebugLogger.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/DebugLogger.swift",
       "kind": "IntegerLiteral",
       "offset": 481,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/DebugLogger.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/DebugLogger.swift",
       "kind": "IntegerLiteral",
       "offset": 526,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/DebugLogger.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/DebugLogger.swift",
       "kind": "IntegerLiteral",
       "offset": 531,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/DebugLogger.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/DebugLogger.swift",
       "kind": "IntegerLiteral",
       "offset": 576,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/DebugLogger.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/DebugLogger.swift",
       "kind": "IntegerLiteral",
       "offset": 581,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/DebugLogger.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/DebugLogger.swift",
       "kind": "IntegerLiteral",
       "offset": 627,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/DebugLogger.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/DebugLogger.swift",
       "kind": "IntegerLiteral",
       "offset": 632,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/DebugLogger.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/DebugLogger.swift",
       "kind": "IntegerLiteral",
       "offset": 2741,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/DebugLogger.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/DebugLogger.swift",
       "kind": "IntegerLiteral",
       "offset": 2746,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/DebugLogger.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/DebugLogger.swift",
       "kind": "IntegerLiteral",
       "offset": 2795,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/DebugLogger.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/DebugLogger.swift",
       "kind": "IntegerLiteral",
       "offset": 2800,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/DebugLogger.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/DebugLogger.swift",
       "kind": "IntegerLiteral",
       "offset": 2852,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/DebugLogger.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/DebugLogger.swift",
       "kind": "IntegerLiteral",
       "offset": 2857,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/EMVUtil.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/EMVUtil.swift",
       "kind": "StringLiteral",
       "offset": 268,
       "length": 6,
       "value": "\"9F06\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/EMVUtil.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/EMVUtil.swift",
       "kind": "StringLiteral",
       "offset": 308,
       "length": 6,
       "value": "\"0301\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/EMVUtil.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/EMVUtil.swift",
       "kind": "StringLiteral",
       "offset": 342,
       "length": 6,
       "value": "\"0305\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/EMVUtil.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/EMVUtil.swift",
       "kind": "StringLiteral",
       "offset": 376,
       "length": 6,
       "value": "\"0304\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/EMVUtil.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/EMVUtil.swift",
       "kind": "StringLiteral",
       "offset": 422,
       "length": 4,
       "value": "\"57\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/EMVUtil.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/EMVUtil.swift",
       "kind": "Array",
       "offset": 1846,
       "length": 307,
       "value": "[\"9F02\", \"9F03\", \"9F26\", \"82\", \"9F36\", \"84\", \"9F10\", \"9F33\", \"9F1A\", \"95\", \"5F2A\", \"9A\", \"9C\", \"9F37\", \"9F5B\", \"C0\", \"9F27\", \"57\", \"5F34\", \"9F6E\", \"9F7C\", \"50\", \"9F12\", \"9F11\"]"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/EMVUtil.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/EMVUtil.swift",
       "kind": "Array",
       "offset": 2186,
       "length": 305,
       "value": "[\"9F02\", \"9F03\", \"9F26\", \"82\", \"9F36\", \"9F34\", \"9F27\", \"84\", \"9F10\", \"9F33\", \"9F1A\", \"95\", \"5F2A\", \"9A\", \"9C\", \"9F37\", \"57\", \"DF21\", \"9F09\", \"DF12\", \"9F1D\", \"5F34\", \"50\", \"9F12\", \"9F11\"]"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/EMVUtil.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/EMVUtil.swift",
       "kind": "Array",
       "offset": 2529,
       "length": 235,
       "value": "[\"9F02\", \"9F03\", \"9F26\", \"82\", \"5F34\", \"9F36\", \"9F27\", \"9F10\", \"9F1A\", \"95\", \"5F2A\", \"9A\", \"9C\", \"9F37\", \"57\", \"9F06\", \"50\", \"9F12\", \"9F11\"]"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/EMVUtil.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/EMVUtil.swift",
       "kind": "Array",
       "offset": 2795,
       "length": 329,
       "value": "[\"9F02\", \"9F03\", \"9F26\", \"9F06\", \"82\", \"9F36\", \"9F09\", \"9F27\", \"84\", \"9F1E\", \"9F10\", \"9F33\", \"9F1A\", \"9F35\", \"95\", \"5F2A\", \"9A\", \"9F41\", \"9C\", \"9F37\", \"DF3F\", \"9F5B\", \"57\", \"5F34\", \"9F6E\", \"50\", \"9F12\", \"9F11\"]"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/PaxManager.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/PaxManager.swift",
       "kind": "StringLiteral",
       "offset": 1047,
       "length": 12,
       "value": "\"PaxManager\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/PaxManager.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/PaxManager.swift",
       "kind": "IntegerLiteral",
       "offset": 1238,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/PaxManager.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/PaxManager.swift",
       "kind": "IntegerLiteral",
       "offset": 1298,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/PaxManager.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/PaxManager.swift",
       "kind": "IntegerLiteral",
       "offset": 9259,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/PaxManager.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/PaxManager.swift",
       "kind": "IntegerLiteral",
       "offset": 9294,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/PaxManager.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/PaxManager.swift",
       "kind": "IntegerLiteral",
       "offset": 9329,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/PaxManager.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/PaxManager.swift",
       "kind": "IntegerLiteral",
       "offset": 9361,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/PaxManager.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/PaxManager.swift",
       "kind": "IntegerLiteral",
       "offset": 9394,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/PaxManager.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/PaxManager.swift",
       "kind": "IntegerLiteral",
       "offset": 9426,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/PaxManager.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/PaxManager.swift",
       "kind": "IntegerLiteral",
       "offset": 9461,
       "length": 1,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Internal\/PaxManager.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Internal\/PaxManager.swift",
       "kind": "IntegerLiteral",
       "offset": 9486,
       "length": 4,
       "value": "0xFF"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/CardDetails.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/CardDetails.swift",
       "kind": "StringLiteral",
       "offset": 899,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/CardDetails.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/CardDetails.swift",
       "kind": "StringLiteral",
       "offset": 996,
       "length": 8,
       "value": "\"NO CVM\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/CardDetails.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/CardDetails.swift",
       "kind": "StringLiteral",
       "offset": 1202,
       "length": 13,
       "value": "\"card_number\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/CardDetails.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/CardDetails.swift",
       "kind": "StringLiteral",
       "offset": 1274,
       "length": 26,
       "value": "\"card_holder_verification\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixAPI.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixAPI.swift",
       "kind": "StringLiteral",
       "offset": 845,
       "length": 15,
       "value": "\"merchant_name\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixAPI.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixAPI.swift",
       "kind": "StringLiteral",
       "offset": 918,
       "length": 19,
       "value": "\"processor_details\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixAPI.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixAPI.swift",
       "kind": "StringLiteral",
       "offset": 1290,
       "length": 12,
       "value": "\"account_id\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixAPI.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixAPI.swift",
       "kind": "StringLiteral",
       "offset": 1336,
       "length": 4,
       "value": "\"id\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixAPI.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixAPI.swift",
       "kind": "StringLiteral",
       "offset": 1371,
       "length": 13,
       "value": "\"acceptor_id\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixAPI.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixAPI.swift",
       "kind": "StringLiteral",
       "offset": 1417,
       "length": 15,
       "value": "\"account_token\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixAPI.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixAPI.swift",
       "kind": "StringLiteral",
       "offset": 1643,
       "length": 13,
       "value": "\"terminal_id\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixAPI.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixAPI.swift",
       "kind": "StringLiteral",
       "offset": 1687,
       "length": 19,
       "value": "\"terminal_batch_id\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixConfig.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixConfig.swift",
       "kind": "StringLiteral",
       "offset": 4987,
       "length": 10,
       "value": "\"DUMMY_V1\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixConfig.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixConfig.swift",
       "kind": "StringLiteral",
       "offset": 5018,
       "length": 10,
       "value": "\"FINIX_V1\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixError.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixError.swift",
       "kind": "StringLiteral",
       "offset": 4533,
       "length": 22,
       "value": "\"SDK not initialized!\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixError.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixError.swift",
       "kind": "StringLiteral",
       "offset": 4566,
       "length": 48,
       "value": "\"Error raised when SDK has not been initialized\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixError.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixError.swift",
       "kind": "StringLiteral",
       "offset": 4722,
       "length": 26,
       "value": "\"No card reader connected\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixError.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixError.swift",
       "kind": "StringLiteral",
       "offset": 4759,
       "length": 40,
       "value": "\"Error when no card reader is connected\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 1427,
       "length": 20,
       "value": "\"CARD_PRESENT_DEBIT\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 1488,
       "length": 28,
       "value": "\"CARD_PRESENT_AUTHORIZATION\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 1562,
       "length": 34,
       "value": "\"CARD_PRESENT_UNREFERENCED_REFUND\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 2046,
       "length": 15,
       "value": "\"operation_key\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 2726,
       "length": 10,
       "value": "\"trace_id\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 2817,
       "length": 10,
       "value": "\"currency\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 2855,
       "length": 12,
       "value": "\"created_at\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 2895,
       "length": 12,
       "value": "\"updated_at\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 3538,
       "length": 10,
       "value": "\"trace_id\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 3629,
       "length": 10,
       "value": "\"currency\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 3667,
       "length": 12,
       "value": "\"created_at\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 3707,
       "length": 12,
       "value": "\"updated_at\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 4206,
       "length": 14,
       "value": "\"raw_response\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 4805,
       "length": 10,
       "value": "\"trace_id\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 4896,
       "length": 10,
       "value": "\"currency\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 4934,
       "length": 12,
       "value": "\"created_at\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 4974,
       "length": 12,
       "value": "\"updated_at\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 5483,
       "length": 10,
       "value": "\"trace_id\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 5574,
       "length": 10,
       "value": "\"currency\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 5612,
       "length": 12,
       "value": "\"created_at\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 5652,
       "length": 12,
       "value": "\"updated_at\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 6295,
       "length": 10,
       "value": "\"trace_id\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 6386,
       "length": 10,
       "value": "\"currency\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 6424,
       "length": 12,
       "value": "\"created_at\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 6464,
       "length": 12,
       "value": "\"updated_at\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 6900,
       "length": 16,
       "value": "\"capture_amount\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 7603,
       "length": 10,
       "value": "\"trace_id\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 7670,
       "length": 10,
       "value": "\"currency\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 7734,
       "length": 10,
       "value": "\"transfer\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 7773,
       "length": 8,
       "value": "\"device\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 7809,
       "length": 12,
       "value": "\"created_at\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 7849,
       "length": 12,
       "value": "\"updated_at\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 8569,
       "length": 16,
       "value": "\"capture_amount\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 8617,
       "length": 14,
       "value": "\"raw_response\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 8658,
       "length": 9,
       "value": "\"void_me\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 9073,
       "length": 9,
       "value": "\"void_me\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 9660,
       "length": 10,
       "value": "\"trace_id\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 9751,
       "length": 10,
       "value": "\"currency\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 9789,
       "length": 12,
       "value": "\"created_at\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 9829,
       "length": 12,
       "value": "\"updated_at\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 10190,
       "length": 15,
       "value": "\"refund_amount\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 10234,
       "length": 8,
       "value": "\"device\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 10619,
       "length": 18,
       "value": "\"CARD_CONTACTLESS\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 10662,
       "length": 11,
       "value": "\"CARD_CHIP\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 10699,
       "length": 12,
       "value": "\"CARD_SWIPE\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 13169,
       "length": 16,
       "value": "\"application_id\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 13218,
       "length": 11,
       "value": "\"device_id\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 13264,
       "length": 13,
       "value": "\"merchant_id\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 13314,
       "length": 15,
       "value": "\"serial_number\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 13368,
       "length": 17,
       "value": "\"failure_details\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 13498,
       "length": 10,
       "value": "\"trace_id\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 13552,
       "length": 23,
       "value": "\"transaction_date_time\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 13615,
       "length": 18,
       "value": "\"transaction_type\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Model\/FinixOperation.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Model\/FinixOperation.swift",
       "kind": "StringLiteral",
       "offset": 13669,
       "length": 14,
       "value": "\"card_details\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Public\/DeviceManager.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Public\/DeviceManager.swift",
       "kind": "StringLiteral",
       "offset": 403,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Public\/DeviceManager.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Public\/DeviceManager.swift",
       "kind": "IntegerLiteral",
       "offset": 794,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Public\/DeviceManager.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Public\/DeviceManager.swift",
       "kind": "IntegerLiteral",
       "offset": 799,
       "length": 4,
       "value": "1000"
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Public\/DeviceManager.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Public\/DeviceManager.swift",
       "kind": "StringLiteral",
       "offset": 916,
       "length": 25,
       "value": "\"com.finix.DeviceManager\""
     },
     {
-      "filePath": "\/Users\/tom.nguyen\/finix\/PaxSwift\/PaxSwift\/Public\/DeviceManager.swift",
+      "filePath": "\/Users\/tom.nguyen\/finix\/pax-mpos-ios-sdk\/PaxSwift\/Public\/DeviceManager.swift",
       "kind": "Dictionary",
       "offset": 1126,
       "length": 3,

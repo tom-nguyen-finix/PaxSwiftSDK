@@ -6,7 +6,7 @@
 //
 
 module PaxSwift {
-    header "/Users/tom.nguyen/finix/PaxSwift/PaxEasyLinkController/PaxEasyLinkController.xcframework/ios-arm64/Headers/PaxEasyLinkController.h"
+    header "/Users/tom.nguyen/finix/pax-mpos-ios-sdk/PaxEasyLinkController/PaxEasyLinkController.xcframework/ios-arm64/Headers/PaxEasyLinkController.h"
 
     export *
 }
