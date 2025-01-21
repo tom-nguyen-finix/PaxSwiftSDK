@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/PaxSwift.h</key>
 		<data>
-		mRsOFDfir4uo2Z+Hi5P2RTNmZ00=
+		lSO9JIYzReHkfEwNWlgRlpzo5UM=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/PaxSwift.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		8sD+5mMgMVkvP6SL8OMc6z9V0/A=
+		SYTsQpaMvfnKMR4w1rx2OdZrqdM=
 		</data>
 		<key>Modules/PaxSwift.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		zyI6yj0GnUEJL7hHdIT9gJbhaAk=
+		JJXBHYu+QQ426doYUvzWsDS/eVo=
 		</data>
 		<key>Modules/PaxSwift.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,15 +30,15 @@
 		</data>
 		<key>Modules/PaxSwift.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		zyI6yj0GnUEJL7hHdIT9gJbhaAk=
+		JJXBHYu+QQ426doYUvzWsDS/eVo=
 		</data>
 		<key>Modules/PaxSwift.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		O33cz/dU8drs79v5XrafmUrVziM=
+		ZJDvgeXZYMZO14x4kIw3zJ5+pY4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		ZURoe6OWO7eM8NcXRuIG92771Mc=
+		oOgSReqSVPXQGqEEFnbmVJJ5T3Q=
 		</data>
 		<key>clss_param.clss</key>
 		<data>
@@ -53,10 +53,6 @@
 	<dict>
 		<key>EASYLINK_LITE.bin</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KZHOi9ZdlTs4McQfDf++C8TXut8=
-			</data>
 			<key>hash2</key>
 			<data>
 			OKkIC0AQRGjPjLwFs7ZART/g2GSfHzxPj5l8xERvb/g=
@@ -64,43 +60,27 @@
 		</dict>
 		<key>Headers/PaxSwift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mRsOFDfir4uo2Z+Hi5P2RTNmZ00=
-			</data>
 			<key>hash2</key>
 			<data>
-			uWsBGKM1GT24hLWMXO0nBErd9pOZ/tXfub4c8FJl2qY=
+			VOw/PVZKbSAwYENefrV35LQ4nhlhJ3WYNynm0MHTobU=
 			</data>
 		</dict>
 		<key>Modules/PaxSwift.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8sD+5mMgMVkvP6SL8OMc6z9V0/A=
-			</data>
 			<key>hash2</key>
 			<data>
-			Ssmqpa7zXMP5MpDmuoywEBp+eT97Htctmo0E2YcUUo8=
+			829+93nl+bkfvviU4Vi8Oo+UWh8B8pymBq0VkR3EGIs=
 			</data>
 		</dict>
 		<key>Modules/PaxSwift.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zyI6yj0GnUEJL7hHdIT9gJbhaAk=
-			</data>
 			<key>hash2</key>
 			<data>
-			9NmJPhauWppa/5ggo0UN/Xs2OAd7+8h8f6o0ZO0pey4=
+			9gXSDGIOA8zqxZQZAmsLpzIqFd/CrFob3mqjRmnOviY=
 			</data>
 		</dict>
 		<key>Modules/PaxSwift.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VoCkW1/Vfn9WMKuybBOvuPPuFkI=
-			</data>
 			<key>hash2</key>
 			<data>
 			+EMlErOZXwzrfcx/6HMGh41qvI5yTkNCyivYgj7eJK0=
@@ -108,43 +88,27 @@
 		</dict>
 		<key>Modules/PaxSwift.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zyI6yj0GnUEJL7hHdIT9gJbhaAk=
-			</data>
 			<key>hash2</key>
 			<data>
-			9NmJPhauWppa/5ggo0UN/Xs2OAd7+8h8f6o0ZO0pey4=
+			9gXSDGIOA8zqxZQZAmsLpzIqFd/CrFob3mqjRmnOviY=
 			</data>
 		</dict>
 		<key>Modules/PaxSwift.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			O33cz/dU8drs79v5XrafmUrVziM=
-			</data>
 			<key>hash2</key>
 			<data>
-			HySfyWGcxWPKuvCbPnn6y55Hu/Gy55H/2FpXeC6LrhU=
+			Hs7WzLSah/QOrkprlRtdxS8eNt7RF3DVPpWx4G1w9so=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZURoe6OWO7eM8NcXRuIG92771Mc=
-			</data>
 			<key>hash2</key>
 			<data>
-			/3QymMVB19tdll2Ai8qK6VoYtVdfSSVoE2iaBKaTIK0=
+			wfrM8+96IK4ecmPnVKHhLmzeKqq17QFv/wA7lv3rsNo=
 			</data>
 		</dict>
 		<key>clss_param.clss</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jZ/6bbb/Aa5vP6TRVZj8B5Cc0Bk=
-			</data>
 			<key>hash2</key>
 			<data>
 			qAcCdsRu/++OpHlS3JkIVbVQgOehsWtApahsXpm1e60=
@@ -152,10 +116,6 @@
 		</dict>
 		<key>emv_param.emv</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pSBIlzPRcfl31M8uJVxzZFAb7u0=
-			</data>
 			<key>hash2</key>
 			<data>
 			6bupzPtLlGeAGPCZztf/6w+ysbZ7mCu2kY2pdS0w9bE=

@@ -8,9 +8,145 @@
 		<data>
 		KZHOi9ZdlTs4McQfDf++C8TXut8=
 		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/ApduReq.h</key>
+		<data>
+		+zufTDdxqcA7z8TeiX+J+4a928k=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/ApduResp.h</key>
+		<data>
+		qvwpGSVRIbWCvNjLrlGA8Aj652w=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/AppSelectRequest.h</key>
+		<data>
+		wGP7X4heXuQhlpMimnEbt2/WQ2k=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/BaseReportModel.h</key>
+		<data>
+		yO+PQQI4UbEDKGZhs6DsAz22WGI=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/BaseRunCmdModel.h</key>
+		<data>
+		O3Z7glqqasCLMW9BE+6u5LQ2K78=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/EasyUtils.h</key>
+		<data>
+		tHyXkp4Ha5Tgc1eZbTR81LDrRU8=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/EmvAidParam.h</key>
+		<data>
+		JbasQ4140u9B29ttze7LczRcQKI=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/EmvIcsParam.h</key>
+		<data>
+		A1Ui2iYI9h5GQFzUhbQZE/r/eHA=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/ISyncAndProcessListener.h</key>
+		<data>
+		ncOW9MUwQmTY9Y32lFxkZop6Hl0=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/KeyInfoParam.h</key>
+		<data>
+		qtHsutdgK28q3rdq5TYX8NGrBqo=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/KeyParam.h</key>
+		<data>
+		l58MoYdard0HMI2/ViBs4w1CBgQ=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/PaxAppList.h</key>
+		<data>
+		SGz/RLAV1pcDP+5kjm1JPh60SjA=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/PaxEasyLinkConst.h</key>
+		<data>
+		PXzGxf2ELQ+PjNGc8bXfLOfMDJY=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/PaxEasyLinkController.h</key>
+		<data>
+		Cis4ByrTgAB4aE1MYmocN2l1ZD8=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/PaxEasyLinkProtocol.h</key>
+		<data>
+		wMJeBLzgAbDbZJF3csgav/jGW6w=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/PaxEasyLinkStatusCode.h</key>
+		<data>
+		s1zZLNUwqMEct7rPkERBwnsJhEI=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/PaxKcvInfo.h</key>
+		<data>
+		9yyqrpsjzsZhCmkb0QIS/dxaahI=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/PaxKeyInfo.h</key>
+		<data>
+		1j2dJFjEiC0AD9fR7ZKiG4OKQpg=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/PaxReportResponse.h</key>
+		<data>
+		YeXgiPpLN/Q8QKbHanni2kt+tsg=
+		</data>
 		<key>ios-arm64/PaxSwift.framework/Headers/PaxSwift.h</key>
 		<data>
-		mRsOFDfir4uo2Z+Hi5P2RTNmZ00=
+		lSO9JIYzReHkfEwNWlgRlpzo5UM=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/PaxTikInfo.h</key>
+		<data>
+		j7DUU+qd4Ndf6kxV4i9uHYSl0d8=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/PiccApduRecv.h</key>
+		<data>
+		YXXKRLMmevyxUExV+5tNYrYEhM8=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/PiccApduSend.h</key>
+		<data>
+		m0vQMzEWVFb1PAnRsA195SpWavg=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/PiccCardInfo.h</key>
+		<data>
+		Mylcu/RHBfNlUNItsVE0mV74kLQ=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/PiccMode.h</key>
+		<data>
+		p9p6ny0vGsqSkH6RwSRswaoAti8=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/PiccParam.h</key>
+		<data>
+		r7+XhM52TwKUElZtbRSGce4aASo=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/ReportData.h</key>
+		<data>
+		r8lEHkMmZkJFMTmUZOKy6ywJI8c=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/SetDataModel.h</key>
+		<data>
+		3DuoOr3mCswTKVdpG0VGFaoYX9I=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/SetEmvAidParamModel.h</key>
+		<data>
+		b3KcDMMxHpxENa07w/dKGUnsykg=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/SetEmvIcsParamModel.h</key>
+		<data>
+		D5wPT6QTAq7UVrbGvRQCvvFZCIs=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/SmartlandingSDK-Swift.h</key>
+		<data>
+		q5MpcB2EumT8pIPq7Lzb+fgPYwM=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/TikKeyParam.h</key>
+		<data>
+		o1ADXWd5M6LOQTtldZiG4rhBUvs=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/TrackData.h</key>
+		<data>
+		3p0/lzrLhyXa+HiE3n4g8GKA+iE=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/WriteKeyModel.h</key>
+		<data>
+		Q0Ulf7OXgYvzYNgn1yyKmqHpnE0=
+		</data>
+		<key>ios-arm64/PaxSwift.framework/Headers/WriteTikKeyModel.h</key>
+		<data>
+		zWgLLeUdf9/uytedV0KlV8rZHI4=
 		</data>
 		<key>ios-arm64/PaxSwift.framework/Info.plist</key>
 		<data>
@@ -18,11 +154,11 @@
 		</data>
 		<key>ios-arm64/PaxSwift.framework/Modules/PaxSwift.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		8sD+5mMgMVkvP6SL8OMc6z9V0/A=
+		SYTsQpaMvfnKMR4w1rx2OdZrqdM=
 		</data>
 		<key>ios-arm64/PaxSwift.framework/Modules/PaxSwift.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		zyI6yj0GnUEJL7hHdIT9gJbhaAk=
+		JJXBHYu+QQ426doYUvzWsDS/eVo=
 		</data>
 		<key>ios-arm64/PaxSwift.framework/Modules/PaxSwift.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,35 +166,19 @@
 		</data>
 		<key>ios-arm64/PaxSwift.framework/Modules/PaxSwift.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		zyI6yj0GnUEJL7hHdIT9gJbhaAk=
+		JJXBHYu+QQ426doYUvzWsDS/eVo=
 		</data>
 		<key>ios-arm64/PaxSwift.framework/Modules/module.modulemap</key>
 		<data>
-		ZURoe6OWO7eM8NcXRuIG92771Mc=
+		oOgSReqSVPXQGqEEFnbmVJJ5T3Q=
 		</data>
 		<key>ios-arm64/PaxSwift.framework/PaxSwift</key>
 		<data>
-		RpE86rrHEiyWNRhOTPLLlzVmJoM=
-		</data>
-		<key>ios-arm64/PaxSwift.framework/_CodeSignature/CodeDirectory</key>
-		<data>
-		AbAPRgjdDaC9/OxAlzW/1+zyjqY=
-		</data>
-		<key>ios-arm64/PaxSwift.framework/_CodeSignature/CodeRequirements</key>
-		<data>
-		soKB3+jec6XgZqpYVUJIImrks5M=
-		</data>
-		<key>ios-arm64/PaxSwift.framework/_CodeSignature/CodeRequirements-1</key>
-		<data>
-		bfSH8EedhsaXrJxUV7ZAb9iqPOM=
+		CkFCauyPuHCwUAbS2kiqRewA4to=
 		</data>
 		<key>ios-arm64/PaxSwift.framework/_CodeSignature/CodeResources</key>
 		<data>
-		Q7BZNkCQkiPVlPnCeEN+kGmGt7U=
-		</data>
-		<key>ios-arm64/PaxSwift.framework/_CodeSignature/CodeSignature</key>
-		<data>
-		RGg+7CoAH1njAXS7M6Avbq3qaSc=
+		U9XO94bM7kt0ObAesvARQtGQoVk=
 		</data>
 		<key>ios-arm64/PaxSwift.framework/clss_param.clss</key>
 		<data>
@@ -67,6 +187,18 @@
 		<key>ios-arm64/PaxSwift.framework/emv_param.emv</key>
 		<data>
 		pSBIlzPRcfl31M8uJVxzZFAb7u0=
+		</data>
+		<key>ios-arm64/dSYMs/PaxSwift.framework.dSYM/Contents/Info.plist</key>
+		<data>
+		u5o9wl7Jayg5OI17WlZDgsVXUFw=
+		</data>
+		<key>ios-arm64/dSYMs/PaxSwift.framework.dSYM/Contents/Resources/DWARF/PaxSwift</key>
+		<data>
+		EDn7jS456/KzqPFAkxasklhRH1k=
+		</data>
+		<key>ios-arm64/dSYMs/PaxSwift.framework.dSYM/Contents/Resources/Relocations/aarch64/PaxSwift.yml</key>
+		<data>
+		VyzKUJu68BuSLnoLKtUieOkO4Es=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -82,15 +214,389 @@
 			OKkIC0AQRGjPjLwFs7ZART/g2GSfHzxPj5l8xERvb/g=
 			</data>
 		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/ApduReq.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+zufTDdxqcA7z8TeiX+J+4a928k=
+			</data>
+			<key>hash2</key>
+			<data>
+			Q3zoeP9WfQC1c1HdzNug2J8t0JkUmdcubftr8auNyMw=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/ApduResp.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qvwpGSVRIbWCvNjLrlGA8Aj652w=
+			</data>
+			<key>hash2</key>
+			<data>
+			0I7m5oi/KHkSVBf7Dq71sc9xowWazFuTUQNNMWke9QU=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/AppSelectRequest.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wGP7X4heXuQhlpMimnEbt2/WQ2k=
+			</data>
+			<key>hash2</key>
+			<data>
+			IZ+noP2GZ86VweOKdZ4RnZAwN1sYbORsNPNMXtQNHnI=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/BaseReportModel.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yO+PQQI4UbEDKGZhs6DsAz22WGI=
+			</data>
+			<key>hash2</key>
+			<data>
+			hTayoMzsUFPZaKhZ0K54434MzkV7E0Lcjdnz45ZjUMo=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/BaseRunCmdModel.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			O3Z7glqqasCLMW9BE+6u5LQ2K78=
+			</data>
+			<key>hash2</key>
+			<data>
+			CphonintTwTsd4uP4LVBz2KnG3/DVEy5qmRzaO6CHdQ=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/EasyUtils.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tHyXkp4Ha5Tgc1eZbTR81LDrRU8=
+			</data>
+			<key>hash2</key>
+			<data>
+			IxO1KomCwktZaqXNv7gu7IVtSlWH62/Mg0Kd6An6Jek=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/EmvAidParam.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JbasQ4140u9B29ttze7LczRcQKI=
+			</data>
+			<key>hash2</key>
+			<data>
+			93wqHRP+Bq0ffovZrJvtZoqUAdm5nUjyNI03Hbj+5i4=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/EmvIcsParam.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			A1Ui2iYI9h5GQFzUhbQZE/r/eHA=
+			</data>
+			<key>hash2</key>
+			<data>
+			b17OmaQMfSG+MuYVLWFOqdmgLo4zzZ8Ke/im4vrk99U=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/ISyncAndProcessListener.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ncOW9MUwQmTY9Y32lFxkZop6Hl0=
+			</data>
+			<key>hash2</key>
+			<data>
+			lOeuBI//1gHBCoa2NFObIcHDDL8ZjMg0CW2O7AniO/o=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/KeyInfoParam.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qtHsutdgK28q3rdq5TYX8NGrBqo=
+			</data>
+			<key>hash2</key>
+			<data>
+			W4NSqypedUHlDskPTDK3DjUa3Qmejr3VlVFD6/hSQlI=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/KeyParam.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			l58MoYdard0HMI2/ViBs4w1CBgQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			6PGYLWky9Xa1LuXBBDFz0MB+MlKADjvGEi2MB+PO5CY=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/PaxAppList.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SGz/RLAV1pcDP+5kjm1JPh60SjA=
+			</data>
+			<key>hash2</key>
+			<data>
+			vLjCmsAfMOuJCRCcj9TWfY7qGQnLI/fR+0FLqfYPHkE=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/PaxEasyLinkConst.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PXzGxf2ELQ+PjNGc8bXfLOfMDJY=
+			</data>
+			<key>hash2</key>
+			<data>
+			nfDS4tgis35wh9/Ai/oBfZbD833ZrGnoOo20O7KdEcs=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/PaxEasyLinkController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Cis4ByrTgAB4aE1MYmocN2l1ZD8=
+			</data>
+			<key>hash2</key>
+			<data>
+			LQKz2/tquqxF1uqGpeV99HL3Nq5LAXCCN7iiae6E/MM=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/PaxEasyLinkProtocol.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wMJeBLzgAbDbZJF3csgav/jGW6w=
+			</data>
+			<key>hash2</key>
+			<data>
+			kj7g6/GlUTSDdR4j/XdDHgHOA5Mrgt/Ld4CeVY6xjQI=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/PaxEasyLinkStatusCode.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			s1zZLNUwqMEct7rPkERBwnsJhEI=
+			</data>
+			<key>hash2</key>
+			<data>
+			XCz1o8e72PMbTOtWinMPxfRZzirBF3uTXtpfGu/Nuu0=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/PaxKcvInfo.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9yyqrpsjzsZhCmkb0QIS/dxaahI=
+			</data>
+			<key>hash2</key>
+			<data>
+			c7OMJxinOc3rHKjiCUM2yB8KIe8PclVD24PGAMOqlnY=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/PaxKeyInfo.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1j2dJFjEiC0AD9fR7ZKiG4OKQpg=
+			</data>
+			<key>hash2</key>
+			<data>
+			7sKmKEA8JMpRC/aDDi8xRUU5Id6OMmN3B2FJJFQFlys=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/PaxReportResponse.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YeXgiPpLN/Q8QKbHanni2kt+tsg=
+			</data>
+			<key>hash2</key>
+			<data>
+			qLslxLVf31kjOSO3dyZudKvawedviko/BF3t5nVDmJk=
+			</data>
+		</dict>
 		<key>ios-arm64/PaxSwift.framework/Headers/PaxSwift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mRsOFDfir4uo2Z+Hi5P2RTNmZ00=
+			lSO9JIYzReHkfEwNWlgRlpzo5UM=
 			</data>
 			<key>hash2</key>
 			<data>
-			uWsBGKM1GT24hLWMXO0nBErd9pOZ/tXfub4c8FJl2qY=
+			VOw/PVZKbSAwYENefrV35LQ4nhlhJ3WYNynm0MHTobU=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/PaxTikInfo.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			j7DUU+qd4Ndf6kxV4i9uHYSl0d8=
+			</data>
+			<key>hash2</key>
+			<data>
+			hTabFEMWxmyheSx0TdH6UQdZ2x+ZMOYgt7nP8BGpXIY=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/PiccApduRecv.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YXXKRLMmevyxUExV+5tNYrYEhM8=
+			</data>
+			<key>hash2</key>
+			<data>
+			AFfuESC6sPPQPEplWzI6s/Qgi5bWMxLY/QbW1Muh0kU=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/PiccApduSend.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			m0vQMzEWVFb1PAnRsA195SpWavg=
+			</data>
+			<key>hash2</key>
+			<data>
+			jG9sIM9uqB71lanEt9+bduWZSzVRX/4l7EnAz7s4Hek=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/PiccCardInfo.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Mylcu/RHBfNlUNItsVE0mV74kLQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			fNMxWZsH0oS//16ijCnic3ZmVFtFJn+TfcjcTDPKjs0=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/PiccMode.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			p9p6ny0vGsqSkH6RwSRswaoAti8=
+			</data>
+			<key>hash2</key>
+			<data>
+			XFtBwGX+vBX/ynq+9uEZMOhsIKmXrV0IOmyfz+rA0Go=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/PiccParam.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			r7+XhM52TwKUElZtbRSGce4aASo=
+			</data>
+			<key>hash2</key>
+			<data>
+			lfdhGPAUAK5AhQ9qpNLBrekARgIQ3KWn2ts5PjHtQD4=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/ReportData.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			r8lEHkMmZkJFMTmUZOKy6ywJI8c=
+			</data>
+			<key>hash2</key>
+			<data>
+			1FJ9FJzsm7mruRaQUa+aWxzH4pxdYs3JvnbIxL4Qteg=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/SetDataModel.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3DuoOr3mCswTKVdpG0VGFaoYX9I=
+			</data>
+			<key>hash2</key>
+			<data>
+			TCWjtunmV9lOGw1j2Ej40/0KQWb0glzq1i60xhB/rI4=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/SetEmvAidParamModel.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			b3KcDMMxHpxENa07w/dKGUnsykg=
+			</data>
+			<key>hash2</key>
+			<data>
+			ohNoz3KCuvgLFwSn+B1slBcjGZ2R2HLMqnKF91aGr5E=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/SetEmvIcsParamModel.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			D5wPT6QTAq7UVrbGvRQCvvFZCIs=
+			</data>
+			<key>hash2</key>
+			<data>
+			eXnwXgC+bNKv/Opq9TrQm2dJoW0lcCORZtdYmzgm1YY=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/SmartlandingSDK-Swift.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			q5MpcB2EumT8pIPq7Lzb+fgPYwM=
+			</data>
+			<key>hash2</key>
+			<data>
+			LqTzZbN/HrSzu/xXGtwAm/s/TyAtOSfI/4RkBv2DEuA=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/TikKeyParam.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			o1ADXWd5M6LOQTtldZiG4rhBUvs=
+			</data>
+			<key>hash2</key>
+			<data>
+			/K6ffBQLR6vd0SKtZ8+D41pw1Q4ZCzmWflEHrq2G7QM=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/TrackData.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3p0/lzrLhyXa+HiE3n4g8GKA+iE=
+			</data>
+			<key>hash2</key>
+			<data>
+			vCKXyaTwn0WQPEEevjXno4QMPgbjVrG6CXQ8R/fY2nE=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/WriteKeyModel.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Q0Ulf7OXgYvzYNgn1yyKmqHpnE0=
+			</data>
+			<key>hash2</key>
+			<data>
+			4/bxL6odkRmOJJStiROHhJUh6BDpoV6tyYuoEt3QUcI=
+			</data>
+		</dict>
+		<key>ios-arm64/PaxSwift.framework/Headers/WriteTikKeyModel.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zWgLLeUdf9/uytedV0KlV8rZHI4=
+			</data>
+			<key>hash2</key>
+			<data>
+			N0zjwv47mTnx2Br15pNFHNB7c2pQOueldPB7Be4Nb+Y=
 			</data>
 		</dict>
 		<key>ios-arm64/PaxSwift.framework/Info.plist</key>
@@ -108,22 +614,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8sD+5mMgMVkvP6SL8OMc6z9V0/A=
+			SYTsQpaMvfnKMR4w1rx2OdZrqdM=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ssmqpa7zXMP5MpDmuoywEBp+eT97Htctmo0E2YcUUo8=
+			829+93nl+bkfvviU4Vi8Oo+UWh8B8pymBq0VkR3EGIs=
 			</data>
 		</dict>
 		<key>ios-arm64/PaxSwift.framework/Modules/PaxSwift.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zyI6yj0GnUEJL7hHdIT9gJbhaAk=
+			JJXBHYu+QQ426doYUvzWsDS/eVo=
 			</data>
 			<key>hash2</key>
 			<data>
-			9NmJPhauWppa/5ggo0UN/Xs2OAd7+8h8f6o0ZO0pey4=
+			9gXSDGIOA8zqxZQZAmsLpzIqFd/CrFob3mqjRmnOviY=
 			</data>
 		</dict>
 		<key>ios-arm64/PaxSwift.framework/Modules/PaxSwift.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -141,88 +647,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zyI6yj0GnUEJL7hHdIT9gJbhaAk=
+			JJXBHYu+QQ426doYUvzWsDS/eVo=
 			</data>
 			<key>hash2</key>
 			<data>
-			9NmJPhauWppa/5ggo0UN/Xs2OAd7+8h8f6o0ZO0pey4=
+			9gXSDGIOA8zqxZQZAmsLpzIqFd/CrFob3mqjRmnOviY=
 			</data>
 		</dict>
 		<key>ios-arm64/PaxSwift.framework/Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZURoe6OWO7eM8NcXRuIG92771Mc=
+			oOgSReqSVPXQGqEEFnbmVJJ5T3Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			/3QymMVB19tdll2Ai8qK6VoYtVdfSSVoE2iaBKaTIK0=
+			wfrM8+96IK4ecmPnVKHhLmzeKqq17QFv/wA7lv3rsNo=
 			</data>
 		</dict>
 		<key>ios-arm64/PaxSwift.framework/PaxSwift</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RpE86rrHEiyWNRhOTPLLlzVmJoM=
+			CkFCauyPuHCwUAbS2kiqRewA4to=
 			</data>
 			<key>hash2</key>
 			<data>
-			TM0JSxMRd17XhMilT/n6STnvIrW0o4fFPm3YdTQrJjs=
-			</data>
-		</dict>
-		<key>ios-arm64/PaxSwift.framework/_CodeSignature/CodeDirectory</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			AbAPRgjdDaC9/OxAlzW/1+zyjqY=
-			</data>
-			<key>hash2</key>
-			<data>
-			Pd+EyAosCUl3iSF2E4KGlNmZAR+aLcUZ/k4fo6fz3ls=
-			</data>
-		</dict>
-		<key>ios-arm64/PaxSwift.framework/_CodeSignature/CodeRequirements</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			soKB3+jec6XgZqpYVUJIImrks5M=
-			</data>
-			<key>hash2</key>
-			<data>
-			TiydqNIsuOB8BNa4Ozmz8JWHFnwN5TQwV4ew/Jrvimo=
-			</data>
-		</dict>
-		<key>ios-arm64/PaxSwift.framework/_CodeSignature/CodeRequirements-1</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bfSH8EedhsaXrJxUV7ZAb9iqPOM=
-			</data>
-			<key>hash2</key>
-			<data>
-			f02QWwS0wGP/Rs+5Jv3J7re8Xyu2lA30QRXdcsTcmIU=
+			G0seAlhRbxUZWUBYhmuXcMbkXZyqibwo7+UiIQBrcpU=
 			</data>
 		</dict>
 		<key>ios-arm64/PaxSwift.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Q7BZNkCQkiPVlPnCeEN+kGmGt7U=
+			U9XO94bM7kt0ObAesvARQtGQoVk=
 			</data>
 			<key>hash2</key>
 			<data>
-			/5VquFXiwThfx9Zumki/upgwtKFU3FSpadEpDpspVF4=
-			</data>
-		</dict>
-		<key>ios-arm64/PaxSwift.framework/_CodeSignature/CodeSignature</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			RGg+7CoAH1njAXS7M6Avbq3qaSc=
-			</data>
-			<key>hash2</key>
-			<data>
-			A2pcp9DIjMIImTABNHgje2DxS0A8vpCHU7RGfbamduw=
+			JrxBZa/RJaunwiR02RMb2RKfU91QPG1ywqd+WTFiP6k=
 			</data>
 		</dict>
 		<key>ios-arm64/PaxSwift.framework/clss_param.clss</key>
@@ -245,6 +707,39 @@
 			<key>hash2</key>
 			<data>
 			6bupzPtLlGeAGPCZztf/6w+ysbZ7mCu2kY2pdS0w9bE=
+			</data>
+		</dict>
+		<key>ios-arm64/dSYMs/PaxSwift.framework.dSYM/Contents/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			u5o9wl7Jayg5OI17WlZDgsVXUFw=
+			</data>
+			<key>hash2</key>
+			<data>
+			cX6FtmGj242IodeYWZuYBKDUREk7mHGdmqZyMt2+GQ8=
+			</data>
+		</dict>
+		<key>ios-arm64/dSYMs/PaxSwift.framework.dSYM/Contents/Resources/DWARF/PaxSwift</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EDn7jS456/KzqPFAkxasklhRH1k=
+			</data>
+			<key>hash2</key>
+			<data>
+			IFSt3eR6Fj2zhKibik2KUn8PT50E9l/CkC7IATW6w2c=
+			</data>
+		</dict>
+		<key>ios-arm64/dSYMs/PaxSwift.framework.dSYM/Contents/Resources/Relocations/aarch64/PaxSwift.yml</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VyzKUJu68BuSLnoLKtUieOkO4Es=
+			</data>
+			<key>hash2</key>
+			<data>
+			AxfL50mFF6S+kiZwvGKOAToGIMICrnmHL3+QlfttYk8=
 			</data>
 		</dict>
 	</dict>
